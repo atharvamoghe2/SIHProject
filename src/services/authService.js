@@ -1,4 +1,4 @@
-const bycryprtjs = require('bycryprtjs');
+const bycrypt = require('bycryptjs');
 const jwt = require('jsonwebtoken');
 const User = require('../models/User');
 const Student = require('../models/Student');
