@@ -12,7 +12,6 @@
     "@aws-sdk/client-s3": "^3.709.0",
     "@aws-sdk/s3-request-presigner": "^3.709.0",
     "bcryptjs": "^3.0.2",
-    "bycryprtjs": "^3.0.2",
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
